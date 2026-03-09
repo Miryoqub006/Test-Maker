@@ -1,4 +1,4 @@
-# ExamPdp3 - TestProject API
+# TestProject API
 
 This project is the **Backend (API)** for a test/examination system designed to present random questions to users and verify their answers. The project is written in C# using **ASP.NET Core Web API** and follows an N-Tier architecture.
 
